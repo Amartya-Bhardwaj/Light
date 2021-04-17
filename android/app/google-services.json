@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437204064900",
+    "project_id": "light-7b812",
+    "storage_bucket": "light-7b812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437204064900:android:ea1746adb8062c717bc0d1",
+        "android_client_info": {
+          "package_name": "com.amartya.light"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437204064900-c29s3hpcc1vupjbtfnsu8f7roi1lc7dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6txJ6kauR5tHXyKW7pF7VsgFinnZ8W5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437204064900-c29s3hpcc1vupjbtfnsu8f7roi1lc7dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
